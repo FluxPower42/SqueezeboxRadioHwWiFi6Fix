@@ -61,6 +61,9 @@ Dies lässt sich einfach mit einem Schlitzschraubendreher heraushebeln.
 ![TX8 Schrauben](./pics/005.png)
 
 1. Bedienteil nach links schieben
-   Dadurch löst es sich aus der rechten Arretierung.
+Dadurch löst es sich aus der rechten Arretierung.
+   
 ![TX8 Schrauben](./pics/006.png)
+
+1. Steckverbinder Lautsprecherkabel lösen
 
