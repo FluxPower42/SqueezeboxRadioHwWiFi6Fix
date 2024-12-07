@@ -51,10 +51,16 @@ Hierbei kann ein Plektrum sehr hilfreich sein.
 
 ![Abnehmen der Lautsprecherabdeckung](./pics/003.png)
 
-3.	Gummiteil an der Netzwerkbuche entfernen
+1. Gummiteil an der Netzwerkbuche entfernen
 Dies lässt sich einfach mit einem Schlitzschraubendreher heraushebeln.
 
 ![Gummiteil Netzwerkbuchse ausbauen](./pics/004.png)
 
+1.	2 x TX8 Schrauben entfernen
+ 
 ![TX8 Schrauben](./pics/005.png)
+
+1. Bedienteil nach links schieben
+   Dadurch löst es sich aus der rechten Arretierung.
+![TX8 Schrauben](./pics/006.png)
 
