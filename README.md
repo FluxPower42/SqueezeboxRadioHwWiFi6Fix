@@ -44,9 +44,17 @@ Auch werde ich nur Support leisten, wenn es mir meine freie Zeit erlaubt und ich
 ## Öffnen des SqueezboxRadios
 1. Abnehmen der Lautsprecherblende
 Hierbei kann ein Plektrum sehr hilfreich sein.
+
 ![Abnehmen der Lautsprecherabdeckung](./pics/001.png)
+
 ![Abnehmen der Lautsprecherabdeckung](./pics/002.png)
+
 ![Abnehmen der Lautsprecherabdeckung](./pics/003.png)
 
-2.	Gummiteil an der Netzwerkbuche entfernen
+3.	Gummiteil an der Netzwerkbuche entfernen
 Dies lässt sich einfach mit einem Schlitzschraubendreher heraushebeln.
+
+![Gummiteil Netzwerkbuchse ausbauen](./pics/004.png)
+
+![TX8 Schrauben](./pics/005.png)
+
