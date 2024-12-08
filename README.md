@@ -44,7 +44,7 @@ Ich werde nur Support leisten, wenn es mir meine freie Zeit erlaubt und ich gera
 -	Feiner Lötkolben und Lötzinn
 -	Ggf. Kopflupe
 -	Heißkleber
--	Bohrmaschine mit dünem Bohrer (um das Loch für die Versorgungslitzen zu bohren)
+-	Bohrmaschine mit einem dünnem Bohrer (um das Loch für die Versorgungslitzen zu bohren)
 -	Klebeband (zum Befestigen der Leitungen im Gehäuse)
 
 
