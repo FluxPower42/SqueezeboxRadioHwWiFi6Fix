@@ -101,7 +101,8 @@ Wenn man das Batteriefach geöffnet hat, kann man von innen drücken.
 ![Gehäuse](./pics/011.png)
 
 
-## 9. Mit einem dünnen Bohrer an der im Bild gekennzeichneten Position ein Loch bohren. 
+## 9. Loch bohren
+Mit einem dünnen Bohrer an der im Bild gekennzeichneten Position ein Loch bohren. 
 Dieses wird für die Litzen der 3,3 Volt Versorgung benötigt.
 
 ![Loch](./pics/012.png)
