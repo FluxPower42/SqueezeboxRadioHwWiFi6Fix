@@ -149,6 +149,8 @@ Es ist darauf zu achten, dass der RJ45-Stecker des LAN-Kabels ebenfalls Platz fi
 
 ## 13 Leitungen im Gehäuse verlegen
 Das LAN-Kabel und die Litzen der 3,3 Volt Versorgung werden wie im folgenden Bild gezeigt im Gehäuse verlegt und mit etwas Klebeband fixiert.
+Verwendet wurde hier das zur TP-Link WiFi-LAN-Bridge mitgelieferte ca. 50 cm lange RJ45-LAN-Flachbandkabel. Statt diesem kann ggf. auch ein 30 cm langes RJ45-LAN-**Flach**bandkabel verwendet werden.
+Der Teil des LAN-Flachbandkabels, der außerhalb des Gehäuses bleibt, sollte ca. 7 cm ohne Stecker betragen, im Gehäuse benötigt man ca. 23 cm.
 
 ![Leitungen](./pics/022.png)
 
@@ -173,6 +175,7 @@ Insbesondere beim Betrieb mit dem eingebauten Akku ist dies von Vorteil.
 
 
 ## 15 Herausführen des LAN-Kabel
+Der Teil des LAN-Flachbandkabels, der außerhalb des Gehäuses bleibt, sollte ca. 7 cm ohne Stecker betragen.
 Der Gummieinsatz rund um die Netzwerkbuchse muss etwas eingeschnitten werden, um Platz für das LAN-Kabel freizugeben.
 
 ![Mainboard](./pics/027.png)
