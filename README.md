@@ -183,4 +183,4 @@ Der Zusammenbau erfolgt in umgekehrter Reihenfolge zum Öffnen des Gehäuses. Da
 
 
 # Viel Erfolg!
-07.12.2024 Timo Engelmann
+written 07.12.2024 by Timo Engelmann
