@@ -1,28 +1,29 @@
+[Teslink](SqueezeboxRadioHwWifi6Fix_ger.md)
+
 # SqueezeboxRadioHwWiFi6Fix
 Squeezebox Radio WiFi6 hardware based fix - Installation of a WiFi LAN bridge
 
 # Squeezebox Radio - Einbau WiFi-LAN-Bridge 
 ## Warum?
-Seit der Einführung von WiFi6 gibt es Probleme mit dem SqueezeboxRadio.
-Der eingebaute WiFi-Chip scheint sich in unregelmäßigen Abständen aufzuhängen. Ein Neustart ist notwendig, um die Verbindung neu aufzubauen. Laut Beobachtungen von Usern des Squeezebox-Forums kommt dies sogar vor, wenn man selbst kein WiFi6 betreibet, es reicht wohl, wenn ein fremdes WiFi Netz in der Gegend WiFi6 verwendet.
+Seit der Einführung von WiFi 6 gibt es Probleme mit dem Squeezebox Radio. Der eingebaute WiFi-Chip scheint sich in unregelmäßigen Abständen aufzuhängen. Ein Neustart ist notwendig, um die Verbindung neu aufzubauen. Laut Beobachtungen von Nutzern des Squeezebox-Forums tritt dies sogar dann auf, wenn man selbst kein WiFi 6 betreibt. Es reicht offenbar aus, wenn ein fremdes WiFi-Netz in der Umgebung WiFi 6 verwendet.
 
 Siehe Thread: https://www.squeezebox-forum.de/viewtopic.php?t=3990
 
-Laut einigen Usern soll die Community-Firmware Version 8.5.0-r16962 das Problem lösen. Vermutlich wird in dieser Version der WiFi-Chip bei einem Abbruch neu initialisiert. Dies passiert solange der Buffer genügend gefüllt ist, um eine Unterbrechung zu verhindern. (Das ist nur meine Vermutung der Funktionsweise!)
+Laut einigen Nutzern soll die Community-Firmware Version 8.5.0-r16962 das Problem lösen. Vermutlich wird in dieser Version der WiFi-Chip bei einem Abbruch neu initialisiert. Dies passiert, solange der Puffer genügend gefüllt ist, um eine Unterbrechung zu verhindern. (Das ist nur meine Vermutung zur Funktionsweise!)
 
-Ich habe diesen Lösungsansatz nicht weiterverfolgt, da für mich die unten beschriebene Hardware-Lösung einfach einzubauen ist und die WiFi-LAN-Bridge auf moderne WiFi-Empfangstechnologie setzt.
+Ich habe diesen Lösungsansatz nicht weiterverfolgt, da für mich die unten beschriebene Hardware-Lösung einfach zu implementieren ist und die WiFi-LAN-Bridge auf moderne WiFi-Empfangstechnologie setzt.
 
-Laut einem User soll wohl die oben erwähnte Community-Firmware Version auch weiterhin Probleme haben, insbesondere wenn man ein FRITZ!box Mesh mit Repeatern betreibet.
+Laut einem Nutzer soll auch die oben erwähnte Community-Firmware-Version weiterhin Probleme haben, insbesondere wenn man ein FRITZ!Box-Mesh mit Repeatern betreibt.
 
 Siehe: https://www.squeezebox-forum.de/viewtopic.php?p=28082#p28082
 
 
 ## Haftung
-Keine Ahnung, warum ich das hier schreibe, der XMV* müsste einem das Folgende eigentlich selbst sagen:
+Keine Ahnung, warum ich das hier schreibe – der XMV* müsste einem das Folgende eigentlich selbst sagen:
 
-Ich übernehme keinerlei Haftung für Schäden am SqueezeboxRadio, noch übernehme ich Haftung für Schäden an Leib und Leben irgendwelcher Personen oder Tiere, ich übernehme auch keine Haftung für Schäden am Rest des Universums inkl. dem verwendeten Werkzeug. Jede und jeder die bzw. der dieser Anleitung folgt, ist für ihr bzw. sein Handeln selbst verantwortlich. Wenn das für Dich nicht ok ist, dann verlasse jetzt diese Seite.
+Ich übernehme keinerlei Haftung für Schäden am Squeezebox Radio, noch für Schäden an Leib und Leben von Personen oder Tieren. Ebenso übernehme ich keine Haftung für Schäden am Rest des Universums, einschließlich des verwendeten Werkzeugs. Jede und jeder, die bzw. der dieser Anleitung folgt, ist für ihr bzw. sein Handeln selbst verantwortlich. Wenn das für Dich nicht in Ordnung ist, verlasse jetzt diese Seite.
 
-Solltes Du noch nie einen Lötkolben in der Hand gehabt haben, lass es bitte, lerne erst zu löten!
+Solltest Du noch nie einen Lötkolben in der Hand gehabt haben, lass es bitte sein und lerne erst, zu löten!
 
 (* XMV = Xunder Menschen Verstand)
 
@@ -62,7 +63,7 @@ Hierbei kann ein Plektrum sehr hilfreich sein.
 
 
 ## 2. Gummiteil an der Netzwerkbuche entfernen
-Dies lässt sich mit einem Schlitzschraubendreher vorsichtig heraushebeln.
+Dieses lässt sich mit einem Schlitzschraubendreher vorsichtig heraushebeln.
 
 ![Gummiteil Netzwerkbuchse ausbauen](./pics/004.png)
 
@@ -127,11 +128,11 @@ Auf der Rückseite des Gehäuses sind die Zugangsdaten auf einem Label aufgedruc
 
 
 ## 11. Elektrische Verbindungen WiFi-LAN-Bridge
-Die 3,3 Volt vom SqueezeboxRadio werden auf der Platine der WiFi-LAN-Bridge *nach* dem Spannungsregler eingespeist.
-Die rote Litze kann hierfür an TP5 angelötet werden. 
-Die schwarze Litze für GND wird an einem der beiden Gehäuse-Lötstellen der USB Buchse angelötet. 
+Die 3,3 Volt vom Squeezebox Radio werden auf der Platine der WiFi-LAN-Bridge *nach* dem Spannungsregler eingespeist.
+Die rote Litze muss hierfür an TP5 angelötet werden. 
+Die schwarze Litze für GND wird an einer der beiden Gehäuse-Lötstellen der USB Buchse angelötet. 
 
-Die Litzen werden danach mit etwas Heißkleber auf der Leiterplatte fixiert.
+Die Litzen werden anschließend mit etwas Heißkleber auf der Leiterplatte fixiert.
 
 ![Versorgungsspannung](./pics/019.png)
 
@@ -141,8 +142,8 @@ Die Litzen werden danach mit etwas Heißkleber auf der Leiterplatte fixiert.
 
 
 ## 12 Einbau WiFi-LAN-Bridge
-Die WiFi-LAN-Bridge findet an der linken Seite des Lautsprechers. Mit etwas Heißkleber kann das Modul am Kunststoff des Gehäuses fixiert werden.
-Es ist darauf zu achten, dass der RJ45 Stecker des LAN-Kabels auch Platz findet. Am besten das Modul mit gesteckten RJ45 Stecker fixieren.
+Die WiFi-LAN-Bridge befindet sich an der linken Seite des Lautsprechers. Mit etwas Heißkleber kann das Modul am Kunststoff des Gehäuses fixiert werden. 
+Es ist darauf zu achten, dass der RJ45-Stecker des LAN-Kabels ebenfalls Platz findet. Am besten sollte das Modul mit eingestecktem RJ45-Stecker fixiert werden.
 
 ![Einbau](./pics/021.png)
 
@@ -154,14 +155,14 @@ Das LAN-Kabel und die Litzen der 3,3 Volt Versorgung werden wie im folgenden Bil
 
 
 ## 14 Elektrische Verbindungen SqueezeboxRadio Mainboard
-Die 3,3 Volt werden am Spannungsregler des Squeezebox Radios abgenommen. 
+Die 3,3 Volt werden am Spannungsregler des Squeezebox Radios abgenommen.
 Die rote Litze kann hierfür an den Testpunkt zwischen R240 und C140 angelötet werden.
 Die schwarze Litze für GND wird an den Masse-Pin von C35 angelötet.
 
 Die Litzen werden mit etwas Heißkleber auf der Leiterplatte fixiert.
 
-Dieser Abgriff nach dem 3,3 Volt Regler hat den Vorteil, dass die WiFi-LAN-Bridge beim Abschalten des SqueezeboxRadios ebenfalls komplett abgeschaltet wird. 
-Insbesondere beim Betrieb mit dem eingebauten Akku ist dies von Vorteil. 
+Dieser Abgriff nach dem 3,3-Volt-Regler hat den Vorteil, dass die WiFi-LAN-Bridge beim Abschalten des Squeezebox Radios ebenfalls komplett abgeschaltet wird.
+Insbesondere beim Betrieb mit dem eingebauten Akku ist dies von Vorteil.
 
 ![Mainboard](./pics/023.png)
 
@@ -179,7 +180,7 @@ Der Gummieinsatz rund um die Netzwerkbuchse muss etwas eingeschnitten werden, um
 
 
 ## 16 Zusammenbau
-Der Zusammenbau erfolgt in umgekehrter Reihenfolge zum Öffnen des Gehäuses. Dabei ist darauf zu achten, dass keine Litzen eingeklemmt werden.
+Der Zusammenbau erfolgt in umgekehrter Reihenfolge zum Öffnen des Gehäuses. Dabei ist darauf zu achten, dass keine der Litzen eingeklemmt wird.
 
 
 # Viel Erfolg!
