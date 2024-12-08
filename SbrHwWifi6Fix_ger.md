@@ -185,4 +185,5 @@ Der Zusammenbau erfolgt in umgekehrter Reihenfolge zum Öffnen des Gehäuses. Da
 
 # Viel Erfolg!
 written 07.12.2024 by Timo Engelmann
+
 Quelle: https://github.com/FluxPower42/SqueezeboxRadioHwWiFi6Fix/blob/main/SbrHwWifi6Fix_ger.md
