@@ -41,8 +41,7 @@ Auch werde ich nur Support leisten, wenn es mir meine freie Zeit erlaubt und ich
 -	Klebeband
 
 # Umbauanleitung
-## Öffnen des SqueezboxRadios
-1. Abnehmen der Lautsprecherblende
+## 1. Abnehmen der Lautsprecherblende
 Hierbei kann ein Plektrum sehr hilfreich sein.
 
 ![Abnehmen der Lautsprecherabdeckung](./pics/001.png)
@@ -51,19 +50,37 @@ Hierbei kann ein Plektrum sehr hilfreich sein.
 
 ![Abnehmen der Lautsprecherabdeckung](./pics/003.png)
 
-1. Gummiteil an der Netzwerkbuche entfernen
-Dies lässt sich einfach mit einem Schlitzschraubendreher heraushebeln.
+## 2. Gummiteil an der Netzwerkbuche entfernen
+Dies lässt sich einfach mit einem Schlitzschraubendreher vorsixchtig heraushebeln.
 
 ![Gummiteil Netzwerkbuchse ausbauen](./pics/004.png)
 
-1.	2 x TX8 Schrauben entfernen
+## 3.	Zwei TX8 Schrauben entfernen
  
 ![TX8 Schrauben](./pics/005.png)
 
-1. Bedienteil nach links schieben
+## 4. Bedienteil nach links schieben
 Dadurch löst es sich aus der rechten Arretierung.
    
 ![TX8 Schrauben](./pics/006.png)
 
-1. Steckverbinder Lautsprecherkabel lösen
+## 5. Steckverbinder Lautsprecherkabel lösen
+
+![TX8 Schrauben](./pics/007.png)
+
+## 6. Steckverbinder der externen Spannungsversorgung lösen
+
+![TX8 Schrauben](./pics/008.png)
+
+## 7. Sechs TX10 Schrauben lösen
+
+![TX8 Schrauben](./pics/009.png)
+
+## 8. Gehäusehälften auseinanderziehen
+Da die Dichtung gut haftet, geht dies beim ersten Öffnen relativ schwer. 
+Wenn man das Batteriefach geöffnet hat, kann man von innen drücken.
+
+![TX8 Schrauben](./pics/009.png)
+
+
 
