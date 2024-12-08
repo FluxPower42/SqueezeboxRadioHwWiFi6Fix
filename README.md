@@ -19,10 +19,15 @@ Siehe: https://www.squeezebox-forum.de/viewtopic.php?p=28082#p28082
 
 ## Haftung
 Keine Ahnung, warum ich das hier schreibe, der XMV* müsste einem das Folgende eigentlich selbst sagen:
-Ich übernehme keinerlei Haftung für Schäden am SqueezeboxRadio, am Werkzeug noch für Schäden an Leib und Leben oder Schäden am Rest des Universums. Jede die dieser Anleitung folgt, ist für ihr Handeln selbst verantwortlich.
-Auch werde ich nur Support leisten, wenn es mir meine freie Zeit erlaubt und ich gerade Bock darauf habe.
+
+Ich übernehme keinerlei Haftung für Schäden am SqueezeboxRadio, am Werkzeug noch übernehme ich Haftung für Schäden an Leib und Leben irgendwelcher Personen oder Tiere, ich übernehme auch keine Haftung für Schäden am Rest des Universums. Jede und jeder die bzw. der dieser Anleitung folgt, ist für sein bzw. ihr Handeln selbst verantwortlich. Wenn das für Sie nicht ok ist, dann verlassen Sie jetzt diese Seite.
 
 (* XMV = Xunder Menschen Verstand)
+
+
+## Support
+Ich werde nur Support leisten, wenn es mir meine freie Zeit erlaubt und ich gerade Bock darauf habe.
+
 
 ## Material
 -	WiFi-LAN-Bridge
@@ -40,7 +45,9 @@ Auch werde ich nur Support leisten, wenn es mir meine freie Zeit erlaubt und ich
 -	Kleine Bohrmaschine, um das Loch für die Versorgungslitzen zu bohren
 -	Klebeband
 
+
 # Umbauanleitung
+
 ## 1. Abnehmen der Lautsprecherblende
 Hierbei kann ein Plektrum sehr hilfreich sein.
 
@@ -76,12 +83,34 @@ Dadurch löst es sich aus der rechten Arretierung.
 
 ## 7. Sechs TX10 Schrauben lösen
 
-![TX8 Schrauben](./pics/009.png)
+![TX8 Schrauben](./pics/010.png)
 
 ## 8. Gehäusehälften auseinanderziehen
 Da die Dichtung gut haftet, geht dies beim ersten Öffnen relativ schwer. 
 Wenn man das Batteriefach geöffnet hat, kann man von innen drücken.
 
-![TX8 Schrauben](./pics/010.png)
+![TX8 Schrauben](./pics/011.png)
+
+## 9. Mit einem dünnen Bohrer an der im Bild gekennzeichneten Position ein Loch bohren. 
+Dieses wird für die Litzen der 3,3 Volt Versorgung benötigt.
+
+![TX8 Schrauben](./pics/012.png)
+
+![TX8 Schrauben](./pics/013.png)
+
+![TX8 Schrauben](./pics/014.png)
+
+## 10. Öffnen der WiFi-LAN-Bridge
+Das Gehäuse der WiFi-LAN-Bridge ist nur geclipst. 
+Mit einem entsprechend dünnen Werkzeug muss zwischen die beiden Gehäusehälften gefahren werden und dann die beiden Hälften auseinander gehebelt werden.
+Auf der Rückseite des Gehäuses sind die Zugangsdaten auf einem Label aufgedruckt. Es empfiehlt sich, diese Daten zu notieren, oder das Label abzulösen und auf das SqueezeboxRadio zu übertragen.
+
+![TX8 Schrauben](./pics/015.png)
+
+![TX8 Schrauben](./pics/016.png)
+
+![TX8 Schrauben](./pics/017.png)
+
+
 
 
