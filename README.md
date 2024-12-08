@@ -154,7 +154,7 @@ Das LAN-Kabel und die Litzen der 3,3 Volt Versorgung werden wie im folgenden Bil
 
 
 ## 14 Elektrische Verbindungen SqueezeboxRadio Mainboard
-Die 3,3V werden am Spannungsregler des Squeezebox Radios abgenommen. 
+Die 3,3 Volt werden am Spannungsregler des Squeezebox Radios abgenommen. 
 Die rote Litze kann hierfür an den Testpunkt zwischen R240 und C140 angelötet werden.
 Die schwarze Litze für GND wird an den Masse-Pin von C35 angelötet.
 
@@ -180,3 +180,9 @@ Der Gummieinsatz rund um die Netzwerkbuchse muss etwas eingeschnitten werden, um
 
 ## 16 Zusammenbau
 Der Zusammenbau erfolgt in umgekehrter Reihenfolge zum Öffnen des Gehäuses. Dabei ist darauf zu achten, dass keine Litzen eingeklemmt werden.
+
+
+# Viel Erfolg!
+<div style="text-align: right;">
+  07.12.2024 Timo Engelmann
+</div>
