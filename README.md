@@ -20,9 +20,9 @@ Siehe: https://www.squeezebox-forum.de/viewtopic.php?p=28082#p28082
 ## Haftung
 Keine Ahnung, warum ich das hier schreibe, der XMV* müsste einem das Folgende eigentlich selbst sagen:
 
-Ich übernehme keinerlei Haftung für Schäden am SqueezeboxRadio, am Werkzeug noch übernehme ich Haftung für Schäden an Leib und Leben irgendwelcher Personen oder Tiere, ich übernehme auch keine Haftung für Schäden am Rest des Universums. Jede und jeder die bzw. der dieser Anleitung folgt, ist für sein bzw. ihr Handeln selbst verantwortlich. Wenn das für Dich nicht ok ist, dann verlassen Sie jetzt diese Seite.
+Ich übernehme keinerlei Haftung für Schäden am SqueezeboxRadio, noch übernehme ich Haftung für Schäden an Leib und Leben irgendwelcher Personen oder Tiere, ich übernehme auch keine Haftung für Schäden am Rest des Universums inkl. dem verwendeten Werkzeug. Jede und jeder die bzw. der dieser Anleitung folgt, ist für ihr bzw. sein Handeln selbst verantwortlich. Wenn das für Dich nicht ok ist, dann verlasse jetzt diese Seite.
 
-Solltes Du noch nie einen Lötkolben in der Hand gehabt haben, lass es, lerne erst zu löten!
+Solltes Du noch nie einen Lötkolben in der Hand gehabt haben, lass es bitte, lerne erst zu löten!
 
 (* XMV = Xunder Menschen Verstand)
 
