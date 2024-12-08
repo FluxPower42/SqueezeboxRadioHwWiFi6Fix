@@ -183,6 +183,4 @@ Der Zusammenbau erfolgt in umgekehrter Reihenfolge zum Öffnen des Gehäuses. Da
 
 
 # Viel Erfolg!
-<div style="text-align: right;">
-  07.12.2024 Timo Engelmann
-</div>
+07.12.2024 Timo Engelmann
