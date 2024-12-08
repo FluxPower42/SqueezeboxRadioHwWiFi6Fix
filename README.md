@@ -51,7 +51,7 @@ Hierbei kann ein Plektrum sehr hilfreich sein.
 ![Abnehmen der Lautsprecherabdeckung](./pics/003.png)
 
 ## 2. Gummiteil an der Netzwerkbuche entfernen
-Dies lässt sich einfach mit einem Schlitzschraubendreher vorsixchtig heraushebeln.
+Dies lässt sich mit einem Schlitzschraubendreher vorsichtig heraushebeln.
 
 ![Gummiteil Netzwerkbuchse ausbauen](./pics/004.png)
 
@@ -64,13 +64,15 @@ Dadurch löst es sich aus der rechten Arretierung.
    
 ![TX8 Schrauben](./pics/006.png)
 
+![TX8 Schrauben](./pics/007.png)
+
 ## 5. Steckverbinder Lautsprecherkabel lösen
 
-![TX8 Schrauben](./pics/007.png)
+![TX8 Schrauben](./pics/008.png)
 
 ## 6. Steckverbinder der externen Spannungsversorgung lösen
 
-![TX8 Schrauben](./pics/008.png)
+![TX8 Schrauben](./pics/009.png)
 
 ## 7. Sechs TX10 Schrauben lösen
 
@@ -80,7 +82,6 @@ Dadurch löst es sich aus der rechten Arretierung.
 Da die Dichtung gut haftet, geht dies beim ersten Öffnen relativ schwer. 
 Wenn man das Batteriefach geöffnet hat, kann man von innen drücken.
 
-![TX8 Schrauben](./pics/009.png)
-
+![TX8 Schrauben](./pics/010.png)
 
 
